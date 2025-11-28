@@ -1,6 +1,6 @@
 # worsk3
-## Reg No: 212223240026
-## Name: Deva dharshini I
+## Reg No: 212223100015
+## Name: JEECIKASRINA M
 # AIM :
 To perform edge detection on an image using the Canny edge detection algorithm after applying Gaussian smoothing to reduce noise.
 # PROGRAM :
